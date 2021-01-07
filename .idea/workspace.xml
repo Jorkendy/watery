@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="82bf13dd-c6a8-4afc-b793-3a8836f43682" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ormconfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ormconfig.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/database.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/database.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/migration/1609749949313-create-users-table.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/migration/1609749949313-create-users-table.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
